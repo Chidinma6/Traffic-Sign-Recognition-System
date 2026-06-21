@@ -1,61 +1,7 @@
-**🚸⛔ Traffic Signs Recognition System**
-
-
-
-A Deep Learning Approach
-
-Group 8 Project
-
-
-
-**Team Members**
-
-
-
-• Chibuike Macnelson – Team Lead
-
-
-
-• Amuzat Habeeb
-
-
-
-• Ejele Ngozi
-
-
-
-• Sani Alamin Nazifi
-
-
-
-• Eluchie Vivian
-
-
-
-• Joseph Victor Osita
-
-
-
-• Ekuma Chidinma
-
-
-
-• Edon Annabella
-
-
-
-• Idowu Favour
-
-
-
-• Amadi Emmanuel
-
+**🚸⛔ Traffic Signs Recognition System- A Deep Learning Project** 
 
 
 **Overview**
-
-
-
 This project focuses on building an intelligent Traffic Sign Recognition System using Deep Learning.
 
 The system is trained to automatically identify and classify traffic signs from images, helping improve road safety and supporting future intelligent transportation systems.
@@ -64,20 +10,9 @@ The system is trained to automatically identify and classify traffic signs from 
 
 The project covers:
 
-
-
 • Data preprocessing
-
-
-
 • CNN model training
-
-
-
 • Model evaluation
-
-
-
 • Deployment using a Streamlit web application
 
 
